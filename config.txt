@@ -1,0 +1,6 @@
+﻿token=NTQ2NzMyMzgwMDEwODQwMDc0.D0sgkA.xGxfC8sgSjP3uxgqeGknSS963k4
+owner=431855325012951050
+prefix=-
+game=By My.MeloDy <3 
+stayinchannel= OFF
+songinstatus=false
